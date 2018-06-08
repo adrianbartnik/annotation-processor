@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":annotation_example" external.linked.project.path="$MODULE_DIR$/../../../annotation_example" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="de.adrianbartnik" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../annotation_example">
+      <excludeFolder url="file://$MODULE_DIR$/../../../annotation_example/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../annotation_example/build/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../annotation_example/build/libs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../annotation_example/build/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../annotation_example/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

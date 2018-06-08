@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="annotation_example_main" target="1.8" />
+      <module name="annotation_example_test" target="1.8" />
+      <module name="annotation_main" target="1.8" />
+      <module name="annotation_test" target="1.8" />
+      <module name="annotationprocessor_main" target="1.8" />
+      <module name="annotationprocessor_test" target="1.8" />
+      <module name="annotations_example_main" target="1.8" />
+      <module name="annotations_example_test" target="1.8" />
+      <module name="pizza_example_main" target="1.8" />
+      <module name="pizza_example_test" target="1.8" />
+      <module name="processor_main" target="1.8" />
+      <module name="processor_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

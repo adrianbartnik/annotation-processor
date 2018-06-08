@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotation.iml" filepath="$PROJECT_DIR$/.idea/modules/annotation.iml" group="annotation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotation_example/annotation_example.iml" filepath="$PROJECT_DIR$/.idea/modules/annotation_example/annotation_example.iml" group="annotation_example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotation_example/annotation_example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/annotation_example/annotation_example_main.iml" group="annotation_example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotation_example/annotation_example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/annotation_example/annotation_example_test.iml" group="annotation_example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotation/annotation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/annotation/annotation_main.iml" group="annotation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotation/annotation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/annotation/annotation_test.iml" group="annotation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotationprocessor.iml" filepath="$PROJECT_DIR$/.idea/modules/annotationprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotationprocessor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/annotationprocessor_main.iml" group="annotationprocessor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotationprocessor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/annotationprocessor_test.iml" group="annotationprocessor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processor.iml" filepath="$PROJECT_DIR$/.idea/modules/processor.iml" group="processor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processor/processor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/processor/processor_main.iml" group="processor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processor/processor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/processor/processor_test.iml" group="processor" />
+    </modules>
+  </component>
+</project>
